@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">task2.1final</string>
+    <string name="convert">Convert</string>
+    <string name="enter_value_to_convert">Enter value to convert</string>
+    <string name="converted_value">Converted value</string>
+
+    <string-array name="units">
+        <item>Meter</item>
+        <item>Kilometer</item>
+        <item>Centimeter</item>
+        <item>Millimeter</item>
+        <item>Mile</item>
+        <item>Yard</item>
+        <item>Foot</item>
+        <item>Inch</item>
+        <item>Kilogram</item>
+        <item>Gram</item>
+        <item>Pound</item>
+        <item>Ounce</item>
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+</resources>
